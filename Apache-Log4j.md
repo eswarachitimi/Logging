@@ -16,12 +16,8 @@
 
 *Following disadvantages can occur with any logging process:*
 
-Logging adds runtime overhead due to the generation of logging information and the device Input/Output (I/O) related to publishing logging information.
-
-Logging includes programming overhead due to the extra code required for producing logging information. The logging process increases the size of the code.
-
-Badly produced logging information can cause confusion.
-
-Logging with bad code can seriously affect the application's performance.
-
-Last but not least, logging requires planning ahead, as adding logging code at a late stage of development is difficult.
+1. Logging adds runtime overhead due to the generation of logging information and the device Input/Output (I/O) related to publishing logging information.
+2. Logging includes programming overhead due to the extra code required for producing logging information. The logging process increases the size of the code.
+3. Badly produced logging information can cause confusion.
+4. Logging with bad code can seriously affect the application's performance.
+5. Last but not least, logging requires planning ahead, as adding logging code at a late stage of development is difficult.
