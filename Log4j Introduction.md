@@ -1,4 +1,4 @@
-  **Logging** is a powerful aid for understanding and debugging the runtime behavior of the programs. Simply the logging means some way to indicate the state of the system at runtime. Logs are used to capture and persists the important data and make it available for analysis at any point in time. Log4j is a fast, reliable and flexible logging framework which is written in java. It is an open-source logging API for java.
+  **Apache Logging** is a powerful aid for understanding and debugging the runtime behavior of the programs. Simply the logging means some way to indicate the state of the system at runtime. Logs are used to capture and persists the important data and make it available for analysis at any point in time. Log4j is a fast, reliable and flexible logging framework which is written in java. It is an open-source logging API for java.
 
 _log4j has three main components:_
 
