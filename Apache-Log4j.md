@@ -1,7 +1,6 @@
-Log4j is a fast, reliable and flexible logging framework which is written in java. It is an open-source logging API for java.
-Logging is a powerful aid for understanding and debugging the runtime behavior of the programs. Simply the logging means some way to indicate the state of the system at runtime. Logs are used to capture and persists the important data and make it available for analysis at any point in time.
+  Logging is a powerful aid for understanding and debugging the runtime behavior of the programs. Simply the logging means some way to indicate the state of the system at runtime. Logs are used to capture and persists the important data and make it available for analysis at any point in time. Log4j is a fast, reliable and flexible logging framework which is written in java. It is an open-source logging API for java.
 
-Advantages of Logging
+#Advantages of Logging
 Almost all software development projects can run on a proper and strict schedule. Logging for an application can offer the following benefits:
 
 Quick Debugging: Once we diagnose the problem, we know exactly how to solve the problem. Well-planned and well-written logging code reduces the overall cost of debugging the application.
@@ -12,7 +11,7 @@ Easy Maintenance: Application with a useful logging feature is easy to debug, an
 
 Cost and Time Savings: Well-written logging code offers quick debugging and easy maintenance. It makes installation, day to day maintenance, and maintenance, and debugging much more cost and time-effective.
 
-Disadvantages of Logging
+#Disadvantages of Logging
 Following disadvantages can occur with any logging process:
 
 Logging adds runtime overhead due to the generation of logging information and the device Input/Output (I/O) related to publishing logging information.
