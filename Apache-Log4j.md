@@ -1,21 +1,27 @@
   Logging is a powerful aid for understanding and debugging the runtime behavior of the programs. Simply the logging means some way to indicate the state of the system at runtime. Logs are used to capture and persists the important data and make it available for analysis at any point in time. Log4j is a fast, reliable and flexible logging framework which is written in java. It is an open-source logging API for java.
 
-#Advantages of Logging
-Almost all software development projects can run on a proper and strict schedule. Logging for an application can offer the following benefits:
+## Advantages of Logging
 
-Quick Debugging: Once we diagnose the problem, we know exactly how to solve the problem. Well-planned and well-written logging code reduces the overall cost of debugging the application.
+*Almost all software development projects can run on a proper and strict schedule. Logging for an application can offer the following benefits:*
 
-Problem Diagnosis: No matter how well written our code is, there may be some problems hidden in it. If you review the logging process, then we will be able to detect the problems precisely and quickly.
+**Quick Debugging:** Once we diagnose the problem, we know exactly how to solve the problem. Well-planned and well-written logging code reduces the overall cost of debugging the application.
 
-Easy Maintenance: Application with a useful logging feature is easy to debug, and therefore, it is easy to maintain.
+**Problem Diagnosis:** No matter how well written our code is, there may be some problems hidden in it. If you review the logging process, then we will be able to detect the problems precisely and quickly.
 
-Cost and Time Savings: Well-written logging code offers quick debugging and easy maintenance. It makes installation, day to day maintenance, and maintenance, and debugging much more cost and time-effective.
+**Easy Maintenance:** Application with a useful logging feature is easy to debug, and therefore, it is easy to maintain.
 
-#Disadvantages of Logging
-Following disadvantages can occur with any logging process:
+**Cost and Time Savings:** Well-written logging code offers quick debugging and easy maintenance. It makes installation, day to day maintenance, and maintenance, and debugging much more cost and time-effective.
+
+## Disadvantages of Logging
+
+*Following disadvantages can occur with any logging process:*
 
 Logging adds runtime overhead due to the generation of logging information and the device Input/Output (I/O) related to publishing logging information.
+
 Logging includes programming overhead due to the extra code required for producing logging information. The logging process increases the size of the code.
+
 Badly produced logging information can cause confusion.
+
 Logging with bad code can seriously affect the application's performance.
+
 Last but not least, logging requires planning ahead, as adding logging code at a late stage of development is difficult.
